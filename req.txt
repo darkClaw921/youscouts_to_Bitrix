@@ -1,0 +1,5 @@
+fast-bitrix24
+ydb
+python-dotenv
+flask
+flask_restx
