@@ -186,9 +186,7 @@ def create_item_for_type(fields):
             'UF_CRM_9_1673354199125':fields['Animal'],
             'UF_CRM_9_1673343312187':prepare_parking_size(fields),
             'UF_CRM_9_1673351367456':prepare_power_electric(fields),
-            'UF_CRM_9_1672215203766':fields['Square'],
-
-            
+            'UF_CRM_9_1672215203766':fields['Square'],  
     }}
     pprint(param)
     1/0
